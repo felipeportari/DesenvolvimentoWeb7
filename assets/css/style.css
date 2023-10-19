@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url("http://marcialocacoescdn.azureedge.net/marcialocacoes/c5598884-2e23-4e3d-833b-bb877492c57f.jpg");
+}
+
+.form{
+    background-color: aliceblue;
+    width: 50vw;
+    padding: 30px;
+    border-radius: 3%;
+}
