@@ -1,0 +1,32 @@
+.carousel-item img {
+  width: 100vw;
+  max-height: 600px;
+}
+
+.carousel-item h1 {
+  font-size: 40px;
+  color: black;
+}
+
+.cordiv {
+  position: absolute;
+  background-color: white;
+  top: 30%;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.card {
+  align-items: center;
+  text-align: center;
+}
+
+.card .card-img-top {
+  min-width: 200px;
+  max-width: 200px;
+  max-height: 200px;
+  min-height: 200px;
+  border-radius: 50%;
+}
